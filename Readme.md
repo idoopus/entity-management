@@ -6,7 +6,7 @@ Entity manger is a simple api server which expose 3 apis for Entities management
 
 - GET /entities - recieve all entities
 - POST /entities - add aditional entity and recive the entity with generated id
-- POST /entities/:id - recieve specific entity by id
+- GET /entities/:id - recieve specific entity by id
 
 ## Running
 
